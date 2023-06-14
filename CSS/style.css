@@ -10,3 +10,9 @@ h1 {
     font-family: 'Tilt Prism', cursive;
     color: white;
 }
+
+span {
+    color: white;
+    font-size: large;
+    font-family: 'Tilt Prism', cursive;
+}
